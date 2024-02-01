@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ghanshyam Bagadi</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 
+<img align = "left" alt="coding" width = "400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fcaffeine&psig=AOvVaw2rQv4oV7x1KrO8XHptVFZY&ust=1706893005293000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCDlorOioQDFQAAAAAdAAAAABAE" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghanshyam444&label=Profile%20views&color=0e75b6&style=flat" alt="ghanshyam444" /> </p>
 
 - 🌱 I’m currently learning **ReactJs, NextJs, AI-ML, DS, Python**
