@@ -1,4 +1,4 @@
-![logo]([https://www.canva.com/design/DAF7kc3Bcm0/D2f3BQvobpHixISY0GTyUQ/view?utm_content=DAF7kc3Bcm0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview](https://www.canva.com/design/DAF7kc3Bcm0/2rTUFmKF97utlMHm6fA7-w/view?utm_content=DAF7kc3Bcm0&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+![logo](https://www.canva.com/design/DAF7kc3Bcm0/EvnODz-8BCyotSOF-G1eUQ/edit?utm_content=DAF7kc3Bcm0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1>Hi 👋, I'm Ghanshyam Bagadi</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 
