@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAF7kc3Bcm0/EvnODz-8BCyotSOF-G1eUQ/edit?utm_content=DAF7kc3Bcm0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo](https://github.com/Ghanshyam444/Ghanshyam444/blob/main/banner.png)
 <h1>Hi 👋, I'm Ghanshyam Bagadi</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 
