@@ -1,4 +1,5 @@
-![image](https://github.com/Ghanshyam444/Ghanshyam444/assets/115298453/968ea3f3-6e5d-440a-92ac-155da2e36af3)<h1 align="center">Hi 👋, I'm Ghanshyam Bagadi</h1>
+![logo](https://www.canva.com/design/DAF7kc3Bcm0/D2f3BQvobpHixISY0GTyUQ/view?utm_content=DAF7kc3Bcm0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+<h1>Hi 👋, I'm Ghanshyam Bagadi</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 
 <img align = "right" alt="coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
